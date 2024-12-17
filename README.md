@@ -75,5 +75,5 @@ As a passionate and highly motivated MERN Stack Developer, I bring 2 of hands-on
 
 ## Programming Quotes
 
-![](https://quotes-github-readme.vercel.app/api?quote=Transforming%20ideas%20into%20reality%20with%20seamless%20full-stack%20solutions%E2%80%94where%20innovation%20meets%20functionality%20to%20elevate%20your%20business%20to%20the%20next%20level..&type=horizontal&theme=dark&author=Mr.PieX)
+![](https://quotes-github-readme.vercel.app/api?quote=Code%20is%20not%20just%20code;%20it%E2%80%99s%20a%20story%20of%20solving%20problems%20and%20creating%20possibilities...&type=horizontal&theme=dark&author=Mr.PieX.)
 
