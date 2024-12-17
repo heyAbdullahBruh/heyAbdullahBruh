@@ -5,16 +5,6 @@
 
 As a passionate and highly motivated MERN Stack Developer, I bring 2 of hands-on experience in designing and building dynamic web applications. My expertise lies in leveraging the MERN (MongoDB, Express.js, React.js, Node.js) stack to develop scalable, performant, and user-friendly web solutions. I have a strong background in front-end and back-end development, adept at crafting responsive and intuitive interfaces while ensuring robust and efficient server-side logic. I am constantly exploring new technologies, striving to write clean, modular code, and delivering seamless user experiences.
 
-Skills: NODE / REACT / JS / HTML / CSS / EXPRESS /MONGO DB
-
-- 🔭 I’m currently working on WEB DEVELOPMENT 
-- 🌱 I’m currently learning python 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about MERN stack 
-- 📫 How to reach me: message in my social account 
-- 😄 Pronouns: Him 
-- ⚡ Fun fact: Siuuuu 
-
 <h2 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=6000&pause=3000&color=009DC5&width=435&lines=Connect+with+me" alt="Typing SVG" /></a></h2>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Mr.Pie0)
@@ -45,9 +35,18 @@ Skills: NODE / REACT / JS / HTML / CSS / EXPRESS /MONGO DB
 [![Google Chrome Badge](https://img.shields.io/badge/google_chrome-556532?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/heyabdullahbruh)
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/heyabdullahbruh)
 <br>
+## Some sf information about me 
+- 🔭 I’m currently working on WEB DEVELOPMENT 
+- 🌱 I’m currently learning python 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about MERN stack 
+- 📫 How to reach me: message in my social account 
+- 😄 Pronouns: Him 
+- ⚡ Fun fact: Siuuuu 
+
 <p align="center">
    <table>
-   <h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=6000&pause=3000&color=009DC5&width=435&lines=GitHub+States" alt="Typing SVG" /></a></h1>
+   ## Github States
        <tr>
        <td><img alt="heyabdullahbruh :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=heyabdullahbruh&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
        <td><img alt="heyabdullahbruh :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyabdullahbruh&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
@@ -58,7 +57,7 @@ Skills: NODE / REACT / JS / HTML / CSS / EXPRESS /MONGO DB
    </table>
 </p>
 <br>
-<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=6000&pause=3000&color=009DC5&width=435&lines=GitHub+Trophies" alt="Typing SVG" /></a></h1>
+## Github Trophies
 <br>
 
 ![](https://github-profile-trophy.vercel.app/?username=heyabdullahbruh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -74,7 +73,7 @@ Skills: NODE / REACT / JS / HTML / CSS / EXPRESS /MONGO DB
 <a href="https://github.com/heyabdullahbruh?tab=followers">
 <img src="https://img.shields.io/github/followers/heyabdullahbruh?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
 
-<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=6000&pause=3000&color=009DC5&width=435&lines=Random+Dev+Quotes" alt="Typing SVG" /></a></h1>
+## Programming Quotes
 
 ![](https://quotes-github-readme.vercel.app/api?quote=Transforming%20ideas%20into%20reality%20with%20seamless%20full-stack%20solutions%E2%80%94where%20innovation%20meets%20functionality%20to%20elevate%20your%20business%20to%20the%20next%20level..&type=horizontal&theme=dark&author=Mr.PieX)
 
