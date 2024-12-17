@@ -7,7 +7,7 @@
 
 ### 🚀 **About Me**
 
-As a passionate **MERN Stack Developer**, I bring **2 years** of hands-on experience designing and building dynamic, user-friendly web applications. My expertise lies in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) to deliver high-performing and scalable solutions. I love crafting intuitive user interfaces while ensuring efficient server-side logic.
+As a passionate **MERN Stack Developer**, I bring **4 years** of hands-on experience designing and building dynamic, user-friendly web applications. My expertise lies in the **MERNN Stack** (MongoDB, Express.js, React.js,Next.JS, Node.js) to deliver high-performing and scalable solutions. I love crafting intuitive user interfaces while ensuring efficient server-side logic.
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Python**
