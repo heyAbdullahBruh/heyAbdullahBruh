@@ -1,4 +1,4 @@
-![Iam a MERN stack web developer.](https://i.postimg.cc/Ss1SFdpX/Linked-In-Article-Cover-Image-1.png)
+![Iam a MERN stack web developer.](https://i.ibb.co.com/T4F2sCn/Linkdin-Cover.png)
 
 <h1 align="center">Hi there 👋, I'm Abdullah Sayed</h1>
 <h3 align="center">🚀 MERN Stack Web Developer | Passionate Problem Solver</h3>
