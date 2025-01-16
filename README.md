@@ -46,6 +46,7 @@ As a passionate **MERN Stack Developer**, I bring **4 years** of hands-on experi
 ![Node.js](https://img.shields.io/badge/Node.Js-black?style=for-the-badge&logo=Node.Js&logoColor=green)
 ![Express.js](https://img.shields.io/badge/Express.Js-black?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![CLodinary](https://img.shields.io/badge/Cloudinary-green?style=for-the-badge&logo=cloudinary&logoColor=Black)
 
 #### 🧰 Tools
 ![Git](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)
