@@ -8,9 +8,13 @@
   <h1>
     Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="👋">, I'm Abdullah Sayed
   </h1>
-  <a href="https://github.com/heyabdullahbruh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF¢er=true&vCenter=true&width=435&lines=🚀+MERN+Stack+Web+Developer;Passionate+Problem+Solver;Crafting+Digital+Experiences" alt="Typing SVG" />
-  </a>
+---
+
+### 🧑‍💻 What I Do
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=27F7A1&width=600&lines=🚀+MERN+Stack+Developer;⚙️+Backend+Engineering+Expert;🔥+Building+Scalable+Web+Apps;🧠+Passionate+About+Clean+Code;💡+Always+Learning+Something+New;🎯+Focused+on+Problem+Solving;🤝+Open+to+Collaborations)](https://git.io/typing-svg)
+
+
 </div>
 
 ---
