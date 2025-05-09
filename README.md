@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/heyabdullahbruh">
-    <img src="https://i.postimg.cc/3RbqGXLm/github-banner.png" alt="Abdullah Sayed - MERN Stack Developer" width="100%"/>
+    <img src="https://i.postimg.cc/MGtsV7st/github-banner.png" alt="Abdullah Sayed - MERN Stack Developer" width="100%"/>
   </a>
 </div>
 
