@@ -82,13 +82,14 @@ I'm a dedicated **MERN Stack Developer** with **3 years+** of hands-on experienc
 
 ### 📊 **My GitHub Journey**
 
-<p align="left">
+
   [Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyabdullahbruh&show_icons=true&theme=radical)
-</p>
+
   
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyabdullahbruh&size_weight=0.5&count_weight=0.5" width="48%" alt="Abdullah's Top Languages" />
-</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=heyabdullahbruh&theme=radical&border_radius=5)](https://git.io/streak-stats)
+
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=heyabdullahbruh&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" alt="Abdullah's GitHub Streak" />
 </p>
