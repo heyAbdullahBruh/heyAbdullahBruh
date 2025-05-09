@@ -83,7 +83,7 @@ I'm a dedicated **MERN Stack Developer** with **3 years+** of hands-on experienc
 ### 📊 **My GitHub Journey**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyabdullahbruh&show_icons=true&theme=blue-green&count_private=true&hide_border=true&rank_icon=github" width="48%" alt="Abdullah's GitHub Stats" />
+  [Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyabdullahbruh&show_icons=true&theme=radical)
 </p>
   
 <p align="left">
