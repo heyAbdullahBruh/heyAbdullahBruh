@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/heyabdullahbruh">
-    <img src="https://i.ibb.co/T4F2sCn/Linkdin-Cover.png" alt="Abdullah Sayed - MERN Stack Developer" width="100%"/>
+    <img src="https://www.canva.com/design/DAGm8uDoHIU/ITYCDs4zku_ssXhGdKXDAQ/view" alt="Abdullah Sayed - MERN Stack Developer" width="100%"/>
   </a>
 </div>
 
