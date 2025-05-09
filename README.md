@@ -91,7 +91,7 @@ I'm a dedicated **MERN Stack Developer** with **3 years+** of hands-on experienc
    <img src="https://streak-stats.demolab.com?user=heyabdullahbruh&theme=radical&border_radius=5)](https://git.io/streak-stats" alt="Abdullah's GitHub Strick" />
  </p>
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=heyabdullahbruh&theme=radical&border_radius=5" width="70%" alt="Abdullah's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5"  alt="Abdullah's GitHub Streak" />
 </p>
 
 ---
