@@ -8,12 +8,8 @@
   <h1>
     Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="👋">, I'm Abdullah Sayed
   </h1>
----
 
-### 🧑‍💻 What I Do
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=27F7A1&width=600&lines=🚀+MERN+Stack+Developer;⚙️+Backend+Engineering+Expert;🔥+Building+Scalable+Web+Apps;🧠+Passionate+About+Clean+Code;💡+Always+Learning+Something+New;🎯+Focused+on+Problem+Solving;🤝+Open+to+Collaborations)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=27F7A1&width=600&lines=🚀+MERN+Stack+Developer;⚙️+Backend+Engineering+Expert;🔥+Building+Scalable+Web+Apps;🧠+Passionate+About+Clean+Code;💡+Always+Learning+Something+New;🎯+Focused+on+Problem+Solving;🤝+Open+to+Collaborations)](https://github.com/heyabdullahbruh)
 
 </div>
 
