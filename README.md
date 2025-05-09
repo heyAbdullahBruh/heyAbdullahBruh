@@ -130,7 +130,16 @@ I'm a dedicated **MERN Stack Developer** with **3 years+** of hands-on experienc
 > _- Mr. PieX_
 
 ---
+### 🎯 Favorite Quote
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> 
+---
 
+### 😎 Fun Fact
+![Meme](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
+---
 <h3 align="center">
   Thank you for stopping by! Let's build something amazing together. 🚀
 </h3>
