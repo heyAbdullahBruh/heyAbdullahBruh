@@ -45,7 +45,15 @@ I'm a dedicated **MERN Stack Developer** with **3 years+** of hands-on experienc
 ---
 
 ### 🛠️ **My Tech Arsenal**
-
+ <div>
+    <h4 align="left"></> Programming Steck</h4>
+      <p align="left">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript&logoColor=Blue" alt="Typescript"/>
+        <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
+      </p>
+</div>
+<h3>🌐 Web Development </h3>
  <div>
     <h4 align="left">🚀 Frontend</h4>
       <p align="left">
@@ -59,10 +67,17 @@ I'm a dedicated **MERN Stack Developer** with **3 years+** of hands-on experienc
       </p>
 </div>
  <div>
-     <h4 align="left">⚙️ Backend & Database</h4>
+     <h4 align="left">⚙️ Backend </h4>
       <p align="left">
         <img src="https://img.shields.io/badge/Node.Js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
         <img src="https://img.shields.io/badge/Express.Js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+        <img src="https://img.shields.io/badge/Restapi-black?style=for-the-badge&logo=rest&logoColor=blue" alt="RestAPI"/>
+        <img src="https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql&logoColor=blue" alt="GraphQL"/>
+      </p>
+</div>
+ <div>
+     <h4 align="left">🗃️ Database</h4>
+      <p align="left">
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
         <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
         <img src="https://img.shields.io/badge/imagekit-blue?style=for-the-badge" alt="Imagekit"/>
@@ -76,6 +91,7 @@ I'm a dedicated **MERN Stack Developer** with **3 years+** of hands-on experienc
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
         <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+        <img src="https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render&logoColor=White" alt="Render"/>
       </p>
 </div>
 
