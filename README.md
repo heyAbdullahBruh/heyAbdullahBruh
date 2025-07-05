@@ -158,6 +158,9 @@ Let’s build something awesome together!
 > **"Code is not just code; it's a story of solving problems and creating possibilities."**  
 > _- Mr. PieX_
 
+> **"Life Can be playboy . But, Code isn't😎."**
+> _-Me-_
+
 ---
 ### 🎯 Favorite Quote
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
