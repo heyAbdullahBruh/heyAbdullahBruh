@@ -21,12 +21,12 @@
 
 I'm just a regular programmer who loves solving problems and exploring new technologies. Whether it's backend logic or frontend finesse, I enjoy building things that work well and make sense.
 💡 I'm always learning — every bug, every project, every new tool is a chance to grow.
-**🔧 Currently exploring:**
+**🔧 Currently exploring:** <br>
  🐍 Python  
  🔗 GraphQL  
  🧠 SQL  
  🔷 TypeScript  
-🚀 I love diving into new technologies and expanding my skill set — it keeps things exciting and makes me a better developer every day.
+🚀 I love diving into new technologies and expanding my skill set — it keeps things exciting and makes me a better developer every day.<br>
 Let’s build something awesome together!
 
 
