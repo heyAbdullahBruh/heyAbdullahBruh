@@ -9,7 +9,7 @@
     Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="👋">, I'm Abdullah Sayed
   </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=27F7A1&width=600&lines=🚀+Software+(Web)+Developer;⚙️+Backend+Developer;🔥+Try+To+Building+Scalable+Web+Apps;🧠+Passionate+About+Clean+Code;💡+Always+Learning+Something+New;🎯+Focused+on+Problem+Solving;🤝+Open+to+Collaborations)](https://github.com/heyabdullahbruh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=27F7A1&width=600&lines=🚀+Software+Developer+(Web);🔥+Try+To+Building+Scalable+Web+Apps;🧠+Passionate+About+Clean+Code;💡+Always+Learning+Something+New;🎯+Focused+on+Problem+Solving;🤝+Open+to+Collaborations)](https://github.com/heyabdullahbruh)
 
 </div>
 
@@ -22,10 +22,10 @@
 I'm just a regular programmer who loves solving problems and exploring new technologies. Whether it's backend logic or frontend finesse, I enjoy building things that work well and make sense.
 💡 I'm always learning — every bug, every project, every new tool is a chance to grow.
 🔧 Currently exploring:
-- 🐍 Python  
-- 🔗 GraphQL  
-- 🧠 SQL  
-- 🔷 TypeScript  
+ 🐍 Python  
+ 🔗 GraphQL  
+ 🧠 SQL  
+ 🔷 TypeScript  
 🚀 I love diving into new technologies and expanding my skill set — it keeps things exciting and makes me a better developer every day.
 Let’s build something awesome together!
 
