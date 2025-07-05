@@ -9,7 +9,7 @@
     Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="👋">, I'm Abdullah Sayed
   </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=27F7A1&width=600&lines=🚀+MERN+Stack+Developer;⚙️+Backend+Engineering+Expert;🔥+Building+Scalable+Web+Apps;🧠+Passionate+About+Clean+Code;💡+Always+Learning+Something+New;🎯+Focused+on+Problem+Solving;🤝+Open+to+Collaborations)](https://github.com/heyabdullahbruh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=27F7A1&width=600&lines=🚀+Software+(Web)+Developer;⚙️+Backend+Developer;🔥+Try+To+Building+Scalable+Web+Apps;🧠+Passionate+About+Clean+Code;💡+Always+Learning+Something+New;🎯+Focused+on+Problem+Solving;🤝+Open+to+Collaborations)](https://github.com/heyabdullahbruh)
 
 </div>
 
@@ -17,7 +17,18 @@
 
 ### 🚀 **About Me**
 
-I'm a dedicated **MERN Stack Developer** with **3 years+** of hands-on experience architecting, developing, and deploying dynamic, user-centric web applications. My core expertise lies in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), and I frequently leverage **Next.js** for server-side rendering, enhanced performance, and SEO. I thrive on crafting intuitive user interfaces backed by efficient and scalable server-side logic. My passion is to transform complex problems into elegant and impactful digital solutions.
+👋 Hey there!
+
+I'm just a regular programmer who loves solving problems and exploring new technologies. Whether it's backend logic or frontend finesse, I enjoy building things that work well and make sense.
+💡 I'm always learning — every bug, every project, every new tool is a chance to grow.
+🔧 Currently exploring:
+- 🐍 Python  
+- 🔗 GraphQL  
+- 🧠 SQL  
+- 🔷 TypeScript  
+🚀 I love diving into new technologies and expanding my skill set — it keeps things exciting and makes me a better developer every day.
+Let’s build something awesome together!
+
 
 <br>
 
@@ -46,7 +57,7 @@ I'm a dedicated **MERN Stack Developer** with **3 years+** of hands-on experienc
 
 ### 🛠️ **My Tech Arsenal**
  <div>
-    <h4 align="left"></> Programming Steck</h4>
+    <h4 align="left">👨‍💻 Programming Steck</h4>
       <p align="left">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript&logoColor=Blue" alt="Typescript"/>
