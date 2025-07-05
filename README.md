@@ -158,8 +158,10 @@ Let’s build something awesome together!
 > **"Code is not just code; it's a story of solving problems and creating possibilities."**  
 > _- Mr. PieX_
 
-> **"Life Can be playboy . But, Code isn't😎."**
-> _-Me-_
+>  **"Life Can be playboy . But, Code isn't😎."**  
+> _- Me_
+
+
 
 ---
 ### 🎯 Favorite Quote
