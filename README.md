@@ -92,7 +92,7 @@ I'm a dedicated **MERN Stack Developer** with **3 years+** of hands-on experienc
    <img src="https://streak-stats.demolab.com?user=heyabdullahbruh&theme=radical&border_radius=5)](https://git.io/streak-stats" alt="Abdullah's GitHub Strick" />
  </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5"  alt="Abdullah's Top language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyAbdullahBruh&show_icons=true&locale=en&layout=compact&text_color=ffffff&bg_color=1c1917&hide_border=true&title_color=0891b2"  alt="Abdullah's Top language" />
 </p>
 
 ---
