@@ -148,8 +148,9 @@ Let’s build something awesome together!
 
 ### 🧠 Currently Learning
 - 🔐 Advanced Node.js Security
-- 📱 React Native for cross-platform apps
+- 📱  React Native for cross-platform apps
 - 🧩 Data Structures & Algorithms in JavaScript
+- 🐍 Python 
 
 ---
 
