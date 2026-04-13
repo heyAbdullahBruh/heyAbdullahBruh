@@ -8,8 +8,7 @@
 
 <br/>
 
-<img src="https://i.ibb.co.com/6JtcWh36/me.jpg" width="130" style="border-radius:50%" alt="Abdullah Sayed"/>
-<img src="https://raw.githubusercontent.com/heyAbdullahBruh/heyAbdullahBruh/refs/heads/main/catie.gif" width="130" style="border-radius:50%" alt="Catie Sayed"/>
+<img src="https://raw.githubusercontent.com/heyAbdullahBruh/heyAbdullahBruh/refs/heads/main/catie.gif" width="330" style="border-radius:50%" alt="Catie Sayed"/>
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Abdullah+Sayed;MERN+Stack+Developer;System+Architect;Pietenium+Founder" alt="Typing SVG"/>
