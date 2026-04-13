@@ -253,9 +253,9 @@ Every commit ships value.
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=heyabdullahbruh&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=7c3aed&icon_color=06b6d4&text_color=ffffff&count_private=true" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=heyabdullahbruh&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=7c3aed&icon_color=06b6d4&text_color=ffffff&count_private=true" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyabdullahbruh&layout=compact&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=7c3aed&text_color=ffffff&langs_count=6" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heyabdullahbruh&layout=compact&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=7c3aed&text_color=ffffff&langs_count=6" height="165"/>
 
 <br/><br/>
 
@@ -264,7 +264,7 @@ Every commit ships value.
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyabdullahbruh&bg_color=0f0f0f&color=7c3aed&line=06b6d4&point=ffffff&hide_border=true&area=true&area_color=7c3aed" width="92%"/>
-
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 </div>
 
 <br/>
