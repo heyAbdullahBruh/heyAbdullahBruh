@@ -262,8 +262,10 @@ Every commit ships value.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyabdullahbruh&bg_color=0f0f0f&color=7c3aed&line=06b6d4&point=ffffff&hide_border=true&area=true&area_color=7c3aed" width="92%"/>
- [![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/heyabdullahbruh)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyabdullahbruh&bg_color=0f0f0f&color=7c3aed&line=06b6d4&point=ffffff&hide_border=true&area=true&area_color=7c3aed" width="95%"/>
+
+<a href="https://github.com/heyabdullahbruh"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="95%" alt="Mr. Snake"/></a>
+ 
 </div>
 
 <br/>
