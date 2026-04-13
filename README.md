@@ -619,7 +619,7 @@ RESTful · Versioned<br/>Documented · Rate-limited<br/>Error-standardized
 
 <br/>
 
-### `// SOCIAL`
+### ` SOCIAL`
 
 [![GitHub](https://img.shields.io/badge/GitHub-heyabdullahbruh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyabdullahbruh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-heyAbdullahBro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyAbdullahBro)
@@ -630,15 +630,15 @@ RESTful · Versioned<br/>Documented · Rate-limited<br/>Error-standardized
 
 <br/>
 
-### `// CONTENT`
+### ` CONTENT`
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-heyabdullahbruh-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/heyabdullahbruh)
 [![Medium](https://img.shields.io/badge/Medium-@abdullahshayed-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdullahshayed)
 [![Substack](https://img.shields.io/badge/Substack-Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://abdullahshayed.substack.com)
-
+[![DailyDev](https://img.shields.io/badge/Daily.dev-Profile-000000?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/abdulllahshayed)
 <br/>
 
-### `// BRAND`
+### `BRAND`
 
 [![Pietenium](https://img.shields.io/badge/Pietenium-Company%20Site-7c3aed?style=for-the-badge&logoColor=white)](https://pietenium.vercel.app)
 [![Clutch](https://img.shields.io/badge/Clutch-Pietenium%20Profile-E82B2B?style=for-the-badge&logo=clutch&logoColor=white)](https://clutch.co/profile/pietenium)
