@@ -29,15 +29,15 @@
           </a>
         </p>
         <p align="left">Crafting minimal, uncompromised web architecture with raw speed and precision scale.</p>
-        
-        <!-- Badges Inline -->
-        <p align="left">
+         <p align="left">
           <img src="https://img.shields.io/badge/Level-Senior_Tier-0F172A?style=for-the-badge&color=000000" />
           <img src="https://img.shields.io/badge/System_Arch-Mastery-0F172A?style=for-the-badge&color=111111" />
           <img src="https://img.shields.io/badge/UI_Dev-Obsessive-0F172A?style=for-the-badge&color=212121" />
         </p>
       </td>
     </tr>
+         
+       
   </table>
 
   <!-- DYNAMIC NEON LINE SEPARATOR -->
@@ -237,31 +237,26 @@
     <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
     <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=764ABC" />
-    
-    <br><br>
-
-    <!-- BACKEND -->
-    <code>BACKEND ROUTES : </code> 
+     <br><br>
+       <code>BACKEND ROUTES : </code> 
     <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Rest_API-000000?style=for-the-badge&logo=fastapi&logoColor=009688" />
     <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=E10098" />
 
-    <br><br>
-
-    <!-- DATA -->
+   <br><br>
     <code>DATA LAYER EXT : </code> 
     <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
     <img src="https://img.shields.io/badge/Mongoose-000000?style=for-the-badge&logo=mongoose&logoColor=880000" />
     <img src="https://img.shields.io/badge/Redis_Mem-000000?style=for-the-badge&logo=redis&logoColor=DC382D" />
-
     <br><br>
-
     <!-- OPS / TOOLS -->
     <code>CORE TOOL SET  : </code> 
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     <img src="https://img.shields.io/badge/Git_Systems-000000?style=for-the-badge&logo=git&logoColor=F05032" />
     <img src="https://img.shields.io/badge/VS_Code_Mstr-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+   
+   
   </div>
 
   <br><br><br>
