@@ -251,10 +251,10 @@ Every commit ships value.
 <div align="center">
 
 ## 📊 GitHub Analytics
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=heyabdullahbruh&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=7c3aed&icon_color=06b6d4&text_color=ffffff&count_private=true" height="165"/>
-&nbsp;
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heyabdullahbruh&layout=compact&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=7c3aed&text_color=ffffff&langs_count=6" height="165"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=heyabdullahbruh&show_icons=true&theme=radical&hide_border=false&bg_color=0f0f0f&title_color=7c3aed&icon_color=06b6d4&text_color=ffffff&count_private=true" height="165"/>
+&nbsp;
 
 <br/><br/>
 
