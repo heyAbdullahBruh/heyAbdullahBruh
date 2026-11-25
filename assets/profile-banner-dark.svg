@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Abdullah Shayed — Full-stack web developer</title>
+  <desc id="desc">A restrained dark charcoal banner with green and blue accents. Abdullah Shayed builds software for real-world workflows.</desc>
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#263a31" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="#101b16"/>
+  <rect x="790" y="0" width="410" height="300" rx="22" fill="url(#grid)" opacity=".9"/>
+  <path d="M0 238H1200" stroke="#263a31" stroke-width="1"/>
+  <rect x="54" y="48" width="7" height="34" rx="3.5" fill="#7cba91"/>
+  <text x="82" y="71" fill="#8ac69e" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">FULL-STACK WEB DEVELOPER</text>
+  <text x="54" y="143" fill="#f2f7f3" font-family="Arial, Helvetica, sans-serif" font-size="53" font-weight="700" letter-spacing="-1.8">Abdullah Shayed</text>
+  <text x="57" y="184" fill="#c0d0c6" font-family="Arial, Helvetica, sans-serif" font-size="22">I build software for real-world workflows.</text>
+  <text x="57" y="219" fill="#8ca397" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.1">REACT  ·  NEXT.JS  ·  NODE.JS  ·  MONGODB  ·  TYPESCRIPT</text>
+  <g transform="translate(830 57)">
+    <rect x="0" y="0" width="294" height="178" rx="16" fill="#17251e" stroke="#334a3d" stroke-width="1.5"/>
+    <rect x="21" y="19" width="252" height="23" rx="6" fill="#23372c"/>
+    <circle cx="34" cy="30.5" r="3.5" fill="#7cba91"/>
+    <circle cx="47" cy="30.5" r="3.5" fill="#75a8c8"/>
+    <circle cx="60" cy="30.5" r="3.5" fill="#557464"/>
+    <rect x="21" y="60" width="108" height="94" rx="9" fill="#20342a"/>
+    <rect x="35" y="75" width="78" height="8" rx="4" fill="#7cba91" opacity=".9"/>
+    <rect x="35" y="92" width="61" height="6" rx="3" fill="#557a65"/>
+    <rect x="35" y="106" width="69" height="6" rx="3" fill="#557a65"/>
+    <rect x="35" y="120" width="46" height="6" rx="3" fill="#557a65"/>
+    <path d="M154 138V112L179 93L202 104L237 72" fill="none" stroke="#75a8c8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="154" cy="138" r="5" fill="#75a8c8"/>
+    <circle cx="179" cy="93" r="5" fill="#75a8c8"/>
+    <circle cx="202" cy="104" r="5" fill="#75a8c8"/>
+    <circle cx="237" cy="72" r="5" fill="#75a8c8"/>
+    <path d="M154 151H250" stroke="#334a3d" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="845" y="267" fill="#8ca397" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">BUILDING WITH PIETENIUM</text>
+  <circle cx="1114" cy="264" r="5" fill="#7cba91"/>
+  <circle cx="1133" cy="264" r="5" fill="#75a8c8"/>
+</svg>
